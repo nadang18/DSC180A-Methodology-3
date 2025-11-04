@@ -23,7 +23,7 @@ index 95393ec,471ce86..8102aa9
      "metadata": {},
      "outputs": [],
      "source": [
- +    "# Exponentiate first!\n",
+ +    "# Exponentiation first!\n",
 -     "5 * 2 ** 3"
 +     "3 * 4 ** 2"
      ]
@@ -65,7 +65,7 @@ index 04812ed..95393ec 100644
     "metadata": {},
     "outputs": [],
     "source": [
-+    "# Exponentiate first!\n",
++    "# Exponentiation first!\n",
      "5 * 2 ** 3"
     ]
    },
